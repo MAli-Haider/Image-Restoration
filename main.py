@@ -2,7 +2,7 @@ from glob import glob
 import os
 import numpy as np
 import cv2
-from graph_celeba import *
+from tarin import *
 
 pen_size = 5
 img_idx = 0
